@@ -107,5 +107,5 @@ REM_BASE=0.200000
 
 ---
 
-> Powered by @Quikert
+> Powered by @Quikert <3
 > 
