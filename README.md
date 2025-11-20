@@ -6,7 +6,7 @@ Manrith is a hybrid evolutionary algorithm, written in pure Haskell and pure C, 
 ---
 
 ## Run easily
-How to execute?[Click here](https://github.com/Quikert/Manrith/blob/main/README.md#execution)
+How to execute? [Click here](https://github.com/Quikert/Manrith/blob/main/README.md#execution)
 
 ---
 
