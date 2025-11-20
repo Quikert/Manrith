@@ -1,0 +1,2 @@
+# Manrith
+Self-constructing algorithm.
