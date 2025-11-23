@@ -30,7 +30,7 @@ flowchart TD
 ## How does it work?
 
 #### Tokenizer
-- Generates a random seed and initial parameters (probabilities, genome limits, etc.).
+- Generates a random seed and initial parameters (probabilities, genome limits, etc).
 - And these values ​​are passed to the Haskell algorithm
 
 #### Evolutionary core
