@@ -6,7 +6,7 @@ Manrith is a hybrid evolutionary algorithm, written in pure Haskell and pure C, 
 ---
 
 ## Run easily
-How to execute? [Click here](https://github.com/Quikert/Manrith/blob/main/README.md#execution)
+How to execute? [Click here](https://github.com/svqst/Manrith/blob/main/README.md#execution)
 
 ---
 
@@ -101,11 +101,11 @@ REM_BASE=0.200000
 ---
 
 ## Detailed documentation
-- Documentation with minimal details of what Haskell does: [Haskell Manrith DOC](https://github.com/Quikert/Manrith/haskell/doc-hs.txt)
-- Documentation with minimal details of what C does: [C Manrith DOC](https://github.com/Quikert/Manrith/c/doc-c.txt)
-- Documentation with minimal details of what Init does: [Init/Shell Manrith DOC](https://github.com/Quikert/Manrith/doc.txt)
+- Documentation with minimal details of what Haskell does: [Haskell Manrith DOC](https://github.com/svqst/Manrith/haskell/doc-hs.txt)
+- Documentation with minimal details of what C does: [C Manrith DOC](https://github.com/svqst/Manrith/c/doc-c.txt)
+- Documentation with minimal details of what Init does: [Init/Shell Manrith DOC](https://github.com/svqst/Manrith/doc.txt)
 
 ---
 
-> Powered by @Quikert <3
+> Powered by @svqst <3
 > 
